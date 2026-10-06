@@ -29,7 +29,7 @@
 
 Welcome to the definitive, SEO-optimized awesome list of **Cloud Business Intelligence (BI) platforms**, **Open-Source Embedded Analytics engines**, and **Headless Semantic Layer frameworks**. 
 
-Whether you are evaluating enterprise-grade commercial platforms (such as *Microsoft Power BI*, *Amazon QuickSight*, *Tableau Cloud*, and *Looker*) or searching for self-hostable open-source alternatives (like *Grafana*, *Apache Superset*, *Metabase*, *Appsmith*, and *Cube*), this repository aggregates current pricing, free tier limits, company valuations, GitHub star counts, and feature breakdowns to help data teams make informed architectural decisions.
+Whether you are evaluating enterprise-grade commercial platforms (such as *Microsoft Power BI*, *Amazon QuickSight*, *Tableau Cloud*, and *Looker*) or searching for self-hostable open-source alternatives (like *Grafana*, *Apache Superset*, *Metabase*, *Appsmith*, and *Cube*), this repository aggregates current pricing, free tier limits, company valuations, GitHub Stars_Counts, and feature breakdowns to help data teams make informed architectural decisions.
 
 ---
 
@@ -67,7 +67,7 @@ Whether you are evaluating enterprise-grade commercial platforms (such as *Micro
 
 ## 🔓 Open-Source GitHub Projects 🔓
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Grafana](https://github.com/grafana/grafana)** [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) 📈  
   **Operational monitoring and observability leader**, AGPL-3.0 licensed. **Default dashboard for Prometheus, InfluxDB, Elasticsearch, and time-series backends**. Enterprise alerting, plugin ecosystem, and real-time operational metrics tracking.
